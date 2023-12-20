@@ -15,6 +15,8 @@ Embark on a culinary journey through our website. Dive into the rich narratives 
 
 -js
 
+-php
+
 ## Usage
 
 -Clone the repository and open it in any HTML Editor. Run the website using your favourite browser.i.e chrome 
